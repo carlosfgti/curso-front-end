@@ -5,15 +5,16 @@
 	<title>Painel | EspecializaTi</title>
 
 	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
 
 	<!-- Optional theme -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="css/especializati.css">
+	<link rel="stylesheet" type="text/css" href="css/especializati-responsivo.css">
 
 	<!--JQuery-->
-	<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+	<script src="js/jquery.js"></script>
 </head>
 <body class="bg-padrao">
 
@@ -87,6 +88,6 @@
 
 
 	<!-- Latest compiled and minified JavaScript -->
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
 </body>
 </html>
